@@ -2,7 +2,7 @@
 ![240_F_1018574094_Z83HtE4Fr19rF2GPGPXFjH47LQ0B1d2k](https://github.com/user-attachments/assets/36f08fb6-eb6f-42fb-b1cd-26db7b49a019)
 
 # 💫 About Me:
-About Me 👨‍💻<br>I’m a passionate Engineer with expertise in front-end and back-end development, focused on creating seamless, dynamic web applications. I bridge the gap between design and functionality while always learning and tackling new challenges.<br><br>When I’m not coding, I draw inspiration from music 🎶 and fitness 🏋️. I thrive in fast-paced environments, value collaboration, and love mentoring junior developers. I’m driven by solving problems and building efficient solutions that deliver real business value.<br><br>Always exploring new ways to push the boundaries of web development. 🚀
+<br>I’m a passionate Engineer with expertise in front-end and back-end development, focused on creating seamless, dynamic web applications. I bridge the gap between design and functionality while always learning and tackling new challenges.<br><br>When I’m not coding, I draw inspiration from music 🎶 and fitness 🏋️. I thrive in fast-paced environments, value collaboration, and love mentoring junior developers. I’m driven by solving problems and building efficient solutions that deliver real business value.<br><br>Always exploring new ways to push the boundaries of web development. 🚀
 
 
 ## 🌐 Socials:
